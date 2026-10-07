@@ -1,83 +1,182 @@
-<!-- ### Hi there 👋 -->
+<div align="center">
 
-<!--
-**ajinkyapuar/ajinkyapuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ajinkya Puar
 
-Here are some ideas to get you started:
+### Building intelligent systems at the intersection of AI, Computer Vision & Human-Computer Interaction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI Systems · Computer Vision · Agentic Software · Eye Tracking · Edge AI · Spatial Computing**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajinkya_Puar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkyapuar/)
+[![GitHub](https://img.shields.io/badge/GitHub-ajinkyapuar-181717?style=flat&logo=github&logoColor=white)](https://github.com/ajinkyapuar)
+[![EyelignAI](https://img.shields.io/badge/EyelignAI-Vision_Intelligence-111111?style=flat)](https://www.eyelign.ai/)
+[![Email](https://img.shields.io/badge/Email-puar.ajinkya%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:puar.ajinkya@gmail.com)
 
+</div>
 
-<img src="https://github.com/ajinkyapuar/ajinkyapuar/blob/master/header.gif">
+---
 
+## About
 
-<h1> Hey there! I'm Ajinkya.</h1>
+I'm a software engineer, technical lead, and R&D builder focused on turning emerging technologies into real-world products.
 
-<!-- <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-Exloring new technologies
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- 🤔 &nbsp; Exp -->
+My work spans **artificial intelligence, computer vision, agentic systems, mobile/edge AI, cloud infrastructure, extended reality, and human-computer interaction**.
 
-<!-- <h3> 🛠 &nbsp;Tech Stack</h3>
+I enjoy working across the full stack of a difficult technical problem:
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C#](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+**Research → Architecture → Prototype → Product → Deployment**
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign) -->
+Much of my current work explores how AI systems can **perceive, reason, act, and adapt to people in real time**.
 
-<br/>
+---
 
-<a href="https://github.com/ajinkyapuar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajinkyapuar&theme=dracula&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyapuar&theme=dracula&layout=compact" />
-</a>
+## What I'm Building
 
-<br/>
+### 👁️ EyelignAI — Vision Intelligence
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+Building camera-based gaze intelligence that turns standard RGB cameras into real-time eye-tracking systems.
 
-<p align="center">
-<!-- <a href="#/"><img alt="Website" src="https://img.shields.io/badge/Website-{URL}-blue?style=flat-square&logo=google-chrome"></a> -->
+- Monocular gaze estimation
+- On-device computer vision
+- Gaze analytics & visualization
+- Mobile / Android SDKs
+- Accessibility & gaze interaction
+- Attention-aware applications
+- Eye-health and research tooling
 
-<a href="https://www.linkedin.com/in/ajinkyapuar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ajinkyapuar-black?style=flat-square&logo=LinkedIn&color=282a36"></a>
+→ [eyelign.ai](https://www.eyelign.ai/)
 
-<a href="https://www.twitter.com/ajinkyapuar/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ajinkyapuar-black?style=flat-square&logo=Twitter&color=282a36"></a>
+### 🤖 Agentic AI Systems
 
-<a href="mailto:puar.ajinkya@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-puar.ajinkya@gmail.com-black?style=flat-square&logo=gmail&color=282a36"></a>
-</p>
+Exploring and building systems where AI agents can move beyond chat interfaces and actually **reason over data, use tools, operate software, generate artifacts, and complete multi-step workflows**.
 
+Current areas of interest include:
+
+- Autonomous AI agents
+- Multi-agent orchestration
+- Computer-use agents
+- Local / private AI
+- MCP & tool-use architectures
+- Agentic data analysis
+- AI-generated interfaces
+- Human-in-the-loop systems
+
+### 🧠 Applied AI & Computer Vision
+
+My broader work includes:
+
+- Object detection & instance segmentation
+- Image and video understanding
+- Camera calibration
+- Facial recognition
+- Multimodal AI
+- GPU inference systems
+- Visual analytics
+- Edge AI deployment
+
+### 🥽 Spatial & Intelligent Computing
+
+I've also built systems across:
+
+- AR / VR / MR
+- Spatial interfaces
+- AIoT
+- Real-time communication
+- Simulation
+- HMD platforms
+- Cloud-connected devices
+
+---
+
+## Selected Work
+
+### 📷 [Camera Calibration & Image Viewer](https://github.com/ajinkyapuar/camera-calibration-image-capture-viewer)
+
+Python + OpenCV tooling for camera calibration, chessboard detection, image capture, calibration dataset management, and intrinsic camera parameter estimation.
+
+### 🥽 EdificeVR
+
+Immersive interior-design and commerce experiences combining real-time 3D, VR, product visualization, and interactive environments.
+
+### 🎥 TENS — Tag Enforced Neural System
+
+Computer-vision system for large-scale video understanding and audio-visual search, including classifiers, keyframe extraction, shot-change detection, and GPU-based processing.
+
+### 👤 SnapClass
+
+Computer-vision attendance system using facial recognition and traditional machine-learning pipelines.
+
+---
+
+## Technology
+
+**AI / Vision**
+
+`Python` · `PyTorch` · `TensorFlow` · `Keras` · `OpenCV` · `scikit-learn` · `NumPy` · `Pandas`
+
+**Agentic AI**
+
+`LLMs` · `AI Agents` · `MCP` · `Tool Use` · `Multi-Agent Systems` · `Local LLMs` · `Ollama`
+
+**Backend / Systems**
+
+`Flask` · `Node.js` · `REST APIs` · `WebSockets` · `RabbitMQ` · `Celery` · `Docker` · `Linux`
+
+**Mobile / Edge**
+
+`Android` · `Java` · `Kotlin` · `C++` · `On-device AI`
+
+**Cloud / Infrastructure**
+
+`AWS` · `Azure` · `AliCloud` · `GPU Infrastructure` · `Docker`
+
+**Spatial Computing**
+
+`Unity3D` · `AR` · `VR` · `MR` · `Computer Vision` · `IoT`
+
+---
+
+## Areas I'm Exploring
+
+```text
+AI Agents
+├── Multi-agent systems
+├── Computer use
+├── Autonomous workflows
+├── Local AI
+└── Human-in-the-loop systems
+
+Vision Intelligence
+├── Eye tracking
+├── Gaze estimation
+├── Ocular imaging
+├── Multimodal perception
+└── On-device inference
+
+Intelligent Interfaces
+├── Spatial computing
+├── Accessibility
+├── Adaptive interfaces
+└── Human-computer interaction
+```
+
+---
+
+## Philosophy
+
+> Build systems that don't just process information —  
+> build systems that can perceive, reason, interact, and adapt.
+
+I’m particularly interested in problems that sit between **research and engineering**, where new AI capabilities need to become reliable, deployable products.
+
+---
+
+<div align="center">
+
+### Let's build something intelligent.
+
+[LinkedIn](https://www.linkedin.com/in/ajinkyapuar/) ·
+[EyelignAI](https://www.eyelign.ai/) ·
+[GitHub](https://github.com/ajinkyapuar) ·
+[Email](mailto:puar.ajinkya@gmail.com)
+
+</div>
